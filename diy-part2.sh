@@ -44,3 +44,6 @@ git clone https://github.com/kuoruan/openwrt-v2ray.git package/diy/openwrt-v2ray
 
 #luci-app-v2ray
 git clone -b luci2 https://github.com/kuoruan/luci-app-v2ray.git package/diy/luci-app-v2ray
+
+#iptvhelper
+git clone https://github.com/riverscn/openwrt-iptvhelper.git package/diy/openwrt-iptvhelper
